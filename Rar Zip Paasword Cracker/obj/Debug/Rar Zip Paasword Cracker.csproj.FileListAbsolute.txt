@@ -1,0 +1,12 @@
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\bin\Debug\Guna.UI2.dll
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\obj\Debug\Rar Zip Paasword Cracker.csproj.AssemblyReference.cache
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\obj\Debug\Rar_Zip_Paasword_Cracker.Main.resources
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\obj\Debug\Rar_Zip_Paasword_Cracker.Properties.Resources.resources
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\obj\Debug\Rar Zip Paasword Cracker.csproj.GenerateResource.cache
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\obj\Debug\Rar Zip Paasword Cracker.csproj.CoreCompileInputs.cache
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\obj\Debug\Rar Zip .274DF038.Up2Date
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\bin\Debug\Rar - Zip Paasword Cracker.exe.config
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\bin\Debug\Rar - Zip Paasword Cracker.exe
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\bin\Debug\Rar - Zip Paasword Cracker.pdb
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\obj\Debug\Rar - Zip Paasword Cracker.exe
+C:\Users\Explo\source\repos\Rar Zip Paasword Cracker\Rar Zip Paasword Cracker\obj\Debug\Rar - Zip Paasword Cracker.pdb
